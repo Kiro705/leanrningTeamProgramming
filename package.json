@@ -1,0 +1,26 @@
+{
+  "name": "mobprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiro705/leanrningTeamProgramming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiro705/leanrningTeamProgramming/issues"
+  },
+  "homepage": "https://github.com/Kiro705/leanrningTeamProgramming#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "sequelize": "^4.22.7"
+  }
+}
